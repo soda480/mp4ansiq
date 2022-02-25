@@ -1,432 +1,432 @@
-2022-02-25 03:29:52,105 MainProcess mp4ansi.mp4ansi [__init__] DEBUG executing MP4ansi constructor
-2022-02-25 03:29:52,105 MainProcess mpmq.mpmq [__init__] DEBUG executing MPmq constructor
-2022-02-25 03:29:52,105 MainProcess mp4ansi.terminal [__init__] DEBUG executing Terminal constructor
-2022-02-25 03:29:52,105 MainProcess mp4ansi.terminal [create] DEBUG creating terminal
-2022-02-25 03:29:52,105 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
-2022-02-25 03:29:52,106 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
-2022-02-25 03:29:52,106 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
-2022-02-25 03:29:52,106 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
-2022-02-25 03:29:52,106 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
-2022-02-25 03:29:52,106 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
-2022-02-25 03:29:52,106 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
-2022-02-25 03:29:52,106 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
-2022-02-25 03:29:52,106 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
-2022-02-25 03:29:52,106 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
-2022-02-25 03:29:52,106 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
-2022-02-25 03:29:52,106 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
-2022-02-25 03:29:52,106 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
-2022-02-25 03:29:52,106 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
-2022-02-25 03:29:52,106 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
-2022-02-25 03:29:52,106 MainProcess mp4ansi.mp4ansi [execute_run] DEBUG executing run task wrapper
-2022-02-25 03:29:52,106 MainProcess mp4ansi.terminal [write_lines] DEBUG writing terminal
-2022-02-25 03:29:52,106 MainProcess mpmq.mpmq [execute_run] DEBUG executing run task wrapper
-2022-02-25 03:29:52,106 MainProcess mpmq.mpmq [run] DEBUG executing run task
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [populate_process_queue] DEBUG populating the process queue
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (0, {'queue': <multiprocessing.queues.Queue object at 0x7f51ce639fa0>, 'process': 0}) to the process queue
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (1, {'queue': <multiprocessing.queues.Queue object at 0x7f51ce639fa0>, 'process': 1}) to the process queue
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (2, {'queue': <multiprocessing.queues.Queue object at 0x7f51ce639fa0>, 'process': 2}) to the process queue
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (3, {'queue': <multiprocessing.queues.Queue object at 0x7f51ce639fa0>, 'process': 3}) to the process queue
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (4, {'queue': <multiprocessing.queues.Queue object at 0x7f51ce639fa0>, 'process': 4}) to the process queue
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (5, {'queue': <multiprocessing.queues.Queue object at 0x7f51ce639fa0>, 'process': 5}) to the process queue
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (6, {'queue': <multiprocessing.queues.Queue object at 0x7f51ce639fa0>, 'process': 6}) to the process queue
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (7, {'queue': <multiprocessing.queues.Queue object at 0x7f51ce639fa0>, 'process': 7}) to the process queue
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (8, {'queue': <multiprocessing.queues.Queue object at 0x7f51ce639fa0>, 'process': 8}) to the process queue
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (9, {'queue': <multiprocessing.queues.Queue object at 0x7f51ce639fa0>, 'process': 9}) to the process queue
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (10, {'queue': <multiprocessing.queues.Queue object at 0x7f51ce639fa0>, 'process': 10}) to the process queue
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (11, {'queue': <multiprocessing.queues.Queue object at 0x7f51ce639fa0>, 'process': 11}) to the process queue
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (12, {'queue': <multiprocessing.queues.Queue object at 0x7f51ce639fa0>, 'process': 12}) to the process queue
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (13, {'queue': <multiprocessing.queues.Queue object at 0x7f51ce639fa0>, 'process': 13}) to the process queue
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (14, {'queue': <multiprocessing.queues.Queue object at 0x7f51ce639fa0>, 'process': 14}) to the process queue
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [populate_process_queue] DEBUG added 15 items to the process queue
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [start_processes] DEBUG there are 15 items in the process queue
-2022-02-25 03:29:52,107 MainProcess mpmq.mpmq [start_processes] DEBUG starting 15 background processes
-2022-02-25 03:29:52,109 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:0 with id:10 name:Process-1
-2022-02-25 03:29:52,110 Process-1 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
-2022-02-25 03:29:52,110 Process-1 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:0
-2022-02-25 03:29:52,110 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:1 with id:11 name:Process-2
-2022-02-25 03:29:52,111 Process-1 __main__ [run_q] DEBUG processing item0
-2022-02-25 03:29:52,111 Process-2 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
-2022-02-25 03:29:52,111 Process-2 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:1
-2022-02-25 03:29:52,111 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:2 with id:12 name:Process-3
-2022-02-25 03:29:52,111 Process-2 __main__ [run_q] DEBUG processing item1
-2022-02-25 03:29:52,112 Process-3 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
-2022-02-25 03:29:52,112 Process-3 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:2
-2022-02-25 03:29:52,112 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:3 with id:14 name:Process-4
-2022-02-25 03:29:52,112 Process-3 __main__ [run_q] DEBUG processing item2
-2022-02-25 03:29:52,113 Process-4 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
-2022-02-25 03:29:52,113 Process-4 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:3
-2022-02-25 03:29:52,113 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:4 with id:16 name:Process-5
-2022-02-25 03:29:52,114 Process-4 __main__ [run_q] DEBUG processing item3
-2022-02-25 03:29:52,114 Process-5 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
-2022-02-25 03:29:52,114 Process-5 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:4
-2022-02-25 03:29:52,114 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:5 with id:18 name:Process-6
-2022-02-25 03:29:52,115 Process-5 __main__ [run_q] DEBUG processing item4
-2022-02-25 03:29:52,115 Process-6 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
-2022-02-25 03:29:52,115 Process-6 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:5
-2022-02-25 03:29:52,115 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:6 with id:20 name:Process-7
-2022-02-25 03:29:52,116 Process-6 __main__ [run_q] DEBUG processing item5
-2022-02-25 03:29:52,116 Process-7 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
-2022-02-25 03:29:52,116 Process-7 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:6
-2022-02-25 03:29:52,116 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:7 with id:22 name:Process-8
-2022-02-25 03:29:52,117 Process-7 __main__ [run_q] DEBUG processing item6
-2022-02-25 03:29:52,117 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:8 with id:25 name:Process-9
-2022-02-25 03:29:52,119 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:9 with id:26 name:Process-10
-2022-02-25 03:29:52,119 Process-8 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
-2022-02-25 03:29:52,119 Process-8 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:7
-2022-02-25 03:29:52,119 Process-8 __main__ [run_q] DEBUG processing item7
-2022-02-25 03:29:52,120 Process-10 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
-2022-02-25 03:29:52,120 Process-10 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:9
-2022-02-25 03:29:52,120 Process-9 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
-2022-02-25 03:29:52,120 Process-9 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:8
-2022-02-25 03:29:52,120 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:10 with id:27 name:Process-11
-2022-02-25 03:29:52,120 Process-10 __main__ [run_q] DEBUG processing item8
-2022-02-25 03:29:52,120 Process-9 __main__ [run_q] DEBUG processing item9
-2022-02-25 03:29:52,121 Process-11 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
-2022-02-25 03:29:52,121 Process-11 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:10
-2022-02-25 03:29:52,121 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:11 with id:31 name:Process-12
-2022-02-25 03:29:52,121 Process-11 __main__ [run_q] DEBUG processing item10
-2022-02-25 03:29:52,122 Process-12 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
-2022-02-25 03:29:52,122 Process-12 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:11
-2022-02-25 03:29:52,122 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:12 with id:33 name:Process-13
-2022-02-25 03:29:52,123 Process-12 __main__ [run_q] DEBUG processing item11
-2022-02-25 03:29:52,123 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:13 with id:35 name:Process-14
-2022-02-25 03:29:52,123 Process-13 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
-2022-02-25 03:29:52,124 Process-13 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:12
-2022-02-25 03:29:52,124 Process-13 __main__ [run_q] DEBUG processing item12
-2022-02-25 03:29:52,124 Process-14 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
-2022-02-25 03:29:52,124 Process-14 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:13
-2022-02-25 03:29:52,124 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:14 with id:36 name:Process-15
-2022-02-25 03:29:52,125 MainProcess mpmq.mpmq [start_processes] INFO started 15 background processes
-2022-02-25 03:29:52,125 Process-14 __main__ [run_q] DEBUG processing item13
-2022-02-25 03:29:52,125 Process-15 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
-2022-02-25 03:29:52,126 Process-15 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:14
-2022-02-25 03:29:52,126 Process-15 __main__ [run_q] DEBUG processing item14
-2022-02-25 03:29:52,612 Process-1 __main__ [run_q] DEBUG processing item15
-2022-02-25 03:29:52,614 Process-3 __main__ [run_q] DEBUG processing item16
-2022-02-25 03:29:52,615 Process-2 __main__ [run_q] DEBUG processing item17
-2022-02-25 03:29:52,615 Process-4 __main__ [run_q] DEBUG processing item18
-2022-02-25 03:29:52,616 Process-5 __main__ [run_q] DEBUG processing item19
-2022-02-25 03:29:52,618 Process-7 __main__ [run_q] DEBUG processing item20
-2022-02-25 03:29:52,618 Process-6 __main__ [run_q] DEBUG processing item21
-2022-02-25 03:29:52,621 Process-8 __main__ [run_q] DEBUG processing item22
-2022-02-25 03:29:52,621 Process-10 __main__ [run_q] DEBUG processing item23
-2022-02-25 03:29:52,622 Process-9 __main__ [run_q] DEBUG processing item24
-2022-02-25 03:29:52,622 Process-11 __main__ [run_q] DEBUG processing item25
-2022-02-25 03:29:52,624 Process-12 __main__ [run_q] DEBUG processing item26
-2022-02-25 03:29:52,626 Process-13 __main__ [run_q] DEBUG processing item27
-2022-02-25 03:29:52,626 Process-14 __main__ [run_q] DEBUG processing item28
-2022-02-25 03:29:52,627 Process-15 __main__ [run_q] DEBUG processing item29
-2022-02-25 03:29:53,113 Process-1 __main__ [run_q] DEBUG processing item30
-2022-02-25 03:29:53,115 Process-3 __main__ [run_q] DEBUG processing item31
-2022-02-25 03:29:53,115 Process-2 __main__ [run_q] DEBUG processing item32
-2022-02-25 03:29:53,116 Process-4 __main__ [run_q] DEBUG processing item33
-2022-02-25 03:29:53,116 Process-5 __main__ [run_q] DEBUG processing item34
-2022-02-25 03:29:53,119 Process-7 __main__ [run_q] DEBUG processing item35
-2022-02-25 03:29:53,119 Process-6 __main__ [run_q] DEBUG processing item36
-2022-02-25 03:29:53,122 Process-8 __main__ [run_q] DEBUG processing item37
-2022-02-25 03:29:53,122 Process-10 __main__ [run_q] DEBUG processing item38
-2022-02-25 03:29:53,123 Process-9 __main__ [run_q] DEBUG processing item39
-2022-02-25 03:29:53,123 Process-11 __main__ [run_q] DEBUG processing item40
-2022-02-25 03:29:53,124 Process-12 __main__ [run_q] DEBUG processing item41
-2022-02-25 03:29:53,127 Process-14 __main__ [run_q] DEBUG processing item42
-2022-02-25 03:29:53,127 Process-13 __main__ [run_q] DEBUG processing item43
-2022-02-25 03:29:53,128 Process-15 __main__ [run_q] DEBUG processing item44
-2022-02-25 03:29:53,614 Process-1 __main__ [run_q] DEBUG processing item45
-2022-02-25 03:29:53,615 Process-3 __main__ [run_q] DEBUG processing item46
-2022-02-25 03:29:53,616 Process-2 __main__ [run_q] DEBUG processing item47
-2022-02-25 03:29:53,617 Process-4 __main__ [run_q] DEBUG processing item48
-2022-02-25 03:29:53,617 Process-5 __main__ [run_q] DEBUG processing item49
-2022-02-25 03:29:53,619 Process-7 __main__ [run_q] DEBUG processing item50
-2022-02-25 03:29:53,620 Process-6 __main__ [run_q] DEBUG processing item51
-2022-02-25 03:29:53,623 Process-8 __main__ [run_q] DEBUG processing item52
-2022-02-25 03:29:53,623 Process-10 __main__ [run_q] DEBUG processing item53
-2022-02-25 03:29:53,623 Process-9 __main__ [run_q] DEBUG processing item54
-2022-02-25 03:29:53,624 Process-11 __main__ [run_q] DEBUG processing item55
-2022-02-25 03:29:53,625 Process-12 __main__ [run_q] DEBUG processing item56
-2022-02-25 03:29:53,627 Process-14 __main__ [run_q] DEBUG processing item57
-2022-02-25 03:29:53,627 Process-13 __main__ [run_q] DEBUG processing item58
-2022-02-25 03:29:53,628 Process-15 __main__ [run_q] DEBUG processing item59
-2022-02-25 03:29:54,115 Process-1 __main__ [run_q] DEBUG processing item60
-2022-02-25 03:29:54,116 Process-3 __main__ [run_q] DEBUG processing item61
-2022-02-25 03:29:54,117 Process-2 __main__ [run_q] DEBUG processing item62
-2022-02-25 03:29:54,118 Process-4 __main__ [run_q] DEBUG processing item63
-2022-02-25 03:29:54,118 Process-5 __main__ [run_q] DEBUG processing item64
-2022-02-25 03:29:54,120 Process-7 __main__ [run_q] DEBUG processing item65
-2022-02-25 03:29:54,120 Process-6 __main__ [run_q] DEBUG processing item66
-2022-02-25 03:29:54,124 Process-8 __main__ [run_q] DEBUG processing item67
-2022-02-25 03:29:54,124 Process-10 __main__ [run_q] DEBUG processing item68
-2022-02-25 03:29:54,124 Process-9 __main__ [run_q] DEBUG processing item69
-2022-02-25 03:29:54,125 Process-11 __main__ [run_q] DEBUG processing item70
-2022-02-25 03:29:54,126 Process-12 __main__ [run_q] DEBUG processing item71
-2022-02-25 03:29:54,128 Process-14 __main__ [run_q] DEBUG processing item72
-2022-02-25 03:29:54,128 Process-13 __main__ [run_q] DEBUG processing item73
-2022-02-25 03:29:54,129 Process-15 __main__ [run_q] DEBUG processing item74
-2022-02-25 03:29:54,616 Process-1 __main__ [run_q] DEBUG processing item75
-2022-02-25 03:29:54,617 Process-3 __main__ [run_q] DEBUG processing item76
-2022-02-25 03:29:54,618 Process-2 __main__ [run_q] DEBUG processing item77
-2022-02-25 03:29:54,618 Process-4 __main__ [run_q] DEBUG processing item78
-2022-02-25 03:29:54,619 Process-5 __main__ [run_q] DEBUG processing item79
-2022-02-25 03:29:54,621 Process-7 __main__ [run_q] DEBUG processing item80
-2022-02-25 03:29:54,621 Process-6 __main__ [run_q] DEBUG processing item81
-2022-02-25 03:29:54,624 Process-8 __main__ [run_q] DEBUG processing item82
-2022-02-25 03:29:54,625 Process-10 __main__ [run_q] DEBUG processing item83
-2022-02-25 03:29:54,625 Process-9 __main__ [run_q] DEBUG processing item84
-2022-02-25 03:29:54,625 Process-11 __main__ [run_q] DEBUG processing item85
-2022-02-25 03:29:54,627 Process-12 __main__ [run_q] DEBUG processing item86
-2022-02-25 03:29:54,629 Process-14 __main__ [run_q] DEBUG processing item87
-2022-02-25 03:29:54,629 Process-13 __main__ [run_q] DEBUG processing item88
-2022-02-25 03:29:54,630 Process-15 __main__ [run_q] DEBUG processing item89
-2022-02-25 03:29:55,117 Process-1 __main__ [run_q] DEBUG processing item90
-2022-02-25 03:29:55,118 Process-3 __main__ [run_q] DEBUG processing item91
-2022-02-25 03:29:55,119 Process-2 __main__ [run_q] DEBUG processing item92
-2022-02-25 03:29:55,119 Process-5 __main__ [run_q] DEBUG processing item93
-2022-02-25 03:29:55,119 Process-4 __main__ [run_q] DEBUG processing item94
-2022-02-25 03:29:55,122 Process-7 __main__ [run_q] DEBUG processing item95
-2022-02-25 03:29:55,122 Process-6 __main__ [run_q] DEBUG processing item96
-2022-02-25 03:29:55,125 Process-8 __main__ [run_q] DEBUG processing item97
-2022-02-25 03:29:55,125 Process-10 __main__ [run_q] DEBUG processing item98
-2022-02-25 03:29:55,126 Process-11 __main__ [run_q] DEBUG processing item99
-2022-02-25 03:29:57,128 Process-12 __main__ [run_q] DEBUG queue is empty
-2022-02-25 03:29:57,128 Process-12 __main__ [run_q] DEBUG processing complete
-2022-02-25 03:29:57,128 Process-12 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:11 result to result queue
-2022-02-25 03:29:57,128 Process-9 __main__ [run_q] DEBUG queue is empty
-2022-02-25 03:29:57,128 Process-9 __main__ [run_q] DEBUG processing complete
-2022-02-25 03:29:57,128 Process-9 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:8 result to result queue
-2022-02-25 03:29:57,129 Process-9 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:8 ended
-2022-02-25 03:29:57,129 Process-12 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:11 ended
-2022-02-25 03:29:57,129 Process-9 mpmq.handler [_queue_handler] DEBUG DONE
-2022-02-25 03:29:57,129 Process-12 mpmq.handler [_queue_handler] DEBUG DONE
-2022-02-25 03:29:57,129 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:8 id:25 name:Process-9 has completed
-2022-02-25 03:29:57,130 Process-13 __main__ [run_q] DEBUG queue is empty
-2022-02-25 03:29:57,130 Process-13 __main__ [run_q] DEBUG processing complete
-2022-02-25 03:29:57,130 Process-13 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:12 result to result queue
-2022-02-25 03:29:57,130 Process-13 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:12 ended
-2022-02-25 03:29:57,130 Process-14 __main__ [run_q] DEBUG queue is empty
-2022-02-25 03:29:57,130 Process-14 __main__ [run_q] DEBUG processing complete
-2022-02-25 03:29:57,131 Process-14 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:13 result to result queue
-2022-02-25 03:29:57,131 Process-13 mpmq.handler [_queue_handler] DEBUG DONE
-2022-02-25 03:29:57,131 Process-14 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:13 ended
-2022-02-25 03:29:57,131 Process-14 mpmq.handler [_queue_handler] DEBUG DONE
-2022-02-25 03:29:57,131 Process-15 __main__ [run_q] DEBUG queue is empty
-2022-02-25 03:29:57,132 Process-15 __main__ [run_q] DEBUG processing complete
-2022-02-25 03:29:57,132 Process-15 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:14 result to result queue
-2022-02-25 03:29:57,133 Process-15 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:14 ended
-2022-02-25 03:29:57,133 Process-15 mpmq.handler [_queue_handler] DEBUG DONE
-2022-02-25 03:29:57,147 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
-2022-02-25 03:29:57,147 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:11 id:31 name:Process-12 has completed
-2022-02-25 03:29:57,148 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
-2022-02-25 03:29:57,148 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:12 id:33 name:Process-13 has completed
-2022-02-25 03:29:57,148 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
-2022-02-25 03:29:57,148 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:13 id:35 name:Process-14 has completed
-2022-02-25 03:29:57,148 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
-2022-02-25 03:29:57,148 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:14 id:36 name:Process-15 has completed
-2022-02-25 03:29:57,148 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
-2022-02-25 03:29:57,618 Process-1 __main__ [run_q] DEBUG queue is empty
-2022-02-25 03:29:57,618 Process-1 __main__ [run_q] DEBUG processing complete
-2022-02-25 03:29:57,618 Process-1 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:0 result to result queue
-2022-02-25 03:29:57,619 Process-1 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:0 ended
-2022-02-25 03:29:57,619 Process-1 mpmq.handler [_queue_handler] DEBUG DONE
-2022-02-25 03:29:57,619 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:0 id:10 name:Process-1 has completed
-2022-02-25 03:29:57,619 Process-3 __main__ [run_q] DEBUG queue is empty
-2022-02-25 03:29:57,619 Process-3 __main__ [run_q] DEBUG processing complete
-2022-02-25 03:29:57,620 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
-2022-02-25 03:29:57,619 Process-2 __main__ [run_q] DEBUG queue is empty
-2022-02-25 03:29:57,620 Process-2 __main__ [run_q] DEBUG processing complete
-2022-02-25 03:29:57,620 Process-3 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:2 result to result queue
-2022-02-25 03:29:57,620 Process-2 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:1 result to result queue
-2022-02-25 03:29:57,620 Process-4 __main__ [run_q] DEBUG queue is empty
-2022-02-25 03:29:57,620 Process-3 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:2 ended
-2022-02-25 03:29:57,620 Process-4 __main__ [run_q] DEBUG processing complete
-2022-02-25 03:29:57,620 Process-3 mpmq.handler [_queue_handler] DEBUG DONE
-2022-02-25 03:29:57,620 Process-2 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:1 ended
-2022-02-25 03:29:57,620 Process-4 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:3 result to result queue
-2022-02-25 03:29:57,620 Process-2 mpmq.handler [_queue_handler] DEBUG DONE
-2022-02-25 03:29:57,621 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:2 id:12 name:Process-3 has completed
-2022-02-25 03:29:57,621 Process-4 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:3 ended
-2022-02-25 03:29:57,621 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
-2022-02-25 03:29:57,621 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:1 id:11 name:Process-2 has completed
-2022-02-25 03:29:57,621 Process-4 mpmq.handler [_queue_handler] DEBUG DONE
-2022-02-25 03:29:57,621 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
-2022-02-25 03:29:57,621 Process-5 __main__ [run_q] DEBUG queue is empty
-2022-02-25 03:29:57,621 Process-5 __main__ [run_q] DEBUG processing complete
-2022-02-25 03:29:57,621 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:3 id:14 name:Process-4 has completed
-2022-02-25 03:29:57,621 Process-5 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:4 result to result queue
-2022-02-25 03:29:57,621 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
-2022-02-25 03:29:57,622 Process-5 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:4 ended
-2022-02-25 03:29:57,622 Process-5 mpmq.handler [_queue_handler] DEBUG DONE
-2022-02-25 03:29:57,622 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:4 id:16 name:Process-5 has completed
-2022-02-25 03:29:57,622 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
-2022-02-25 03:29:57,623 Process-6 __main__ [run_q] DEBUG queue is empty
-2022-02-25 03:29:57,623 Process-6 __main__ [run_q] DEBUG processing complete
-2022-02-25 03:29:57,623 Process-6 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:5 result to result queue
-2022-02-25 03:29:57,623 Process-7 __main__ [run_q] DEBUG queue is empty
-2022-02-25 03:29:57,623 Process-7 __main__ [run_q] DEBUG processing complete
-2022-02-25 03:29:57,623 Process-7 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:6 result to result queue
-2022-02-25 03:29:57,624 Process-7 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:6 ended
-2022-02-25 03:29:57,624 Process-7 mpmq.handler [_queue_handler] DEBUG DONE
-2022-02-25 03:29:57,624 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:6 id:20 name:Process-7 has completed
-2022-02-25 03:29:57,624 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
-2022-02-25 03:29:57,624 Process-6 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:5 ended
-2022-02-25 03:29:57,624 Process-6 mpmq.handler [_queue_handler] DEBUG DONE
-2022-02-25 03:29:57,625 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:5 id:18 name:Process-6 has completed
-2022-02-25 03:29:57,625 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
-2022-02-25 03:29:57,626 Process-10 __main__ [run_q] DEBUG queue is empty
-2022-02-25 03:29:57,626 Process-10 __main__ [run_q] DEBUG processing complete
-2022-02-25 03:29:57,626 Process-10 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:9 result to result queue
-2022-02-25 03:29:57,627 Process-8 __main__ [run_q] DEBUG queue is empty
-2022-02-25 03:29:57,627 Process-8 __main__ [run_q] DEBUG processing complete
-2022-02-25 03:29:57,627 Process-8 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:7 result to result queue
-2022-02-25 03:29:57,627 Process-10 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:9 ended
-2022-02-25 03:29:57,627 Process-10 mpmq.handler [_queue_handler] DEBUG DONE
-2022-02-25 03:29:57,627 Process-8 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:7 ended
-2022-02-25 03:29:57,627 Process-8 mpmq.handler [_queue_handler] DEBUG DONE
-2022-02-25 03:29:57,628 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:7 id:22 name:Process-8 has completed
-2022-02-25 03:29:57,628 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
-2022-02-25 03:29:57,628 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:9 id:26 name:Process-10 has completed
-2022-02-25 03:29:57,628 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
-2022-02-25 03:29:57,628 Process-11 __main__ [run_q] DEBUG queue is empty
-2022-02-25 03:29:57,628 Process-11 __main__ [run_q] DEBUG processing complete
-2022-02-25 03:29:57,628 Process-11 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:10 result to result queue
-2022-02-25 03:29:57,629 Process-11 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:10 ended
-2022-02-25 03:29:57,629 Process-11 mpmq.handler [_queue_handler] DEBUG DONE
-2022-02-25 03:29:57,629 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:10 id:27 name:Process-11 has completed
-2022-02-25 03:29:57,629 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
-2022-02-25 03:29:57,629 MainProcess mpmq.mpmq [run] INFO there are no more active processses - quitting
-2022-02-25 03:29:57,629 MainProcess mpmq.mpmq [update_result] DEBUG updating process data with results
-2022-02-25 03:29:57,629 MainProcess mpmq.mpmq [update_result] DEBUG the result queue size is: 15
-2022-02-25 03:29:57,629 MainProcess mpmq.mpmq [update_result] DEBUG updating process data with result from result queue
-2022-02-25 03:29:57,629 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:8 to process data
-2022-02-25 03:29:57,629 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:11 to process data
-2022-02-25 03:29:57,630 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:12 to process data
-2022-02-25 03:29:57,630 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:13 to process data
-2022-02-25 03:29:57,630 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:14 to process data
-2022-02-25 03:29:57,630 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:0 to process data
-2022-02-25 03:29:57,630 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:2 to process data
-2022-02-25 03:29:57,630 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:1 to process data
-2022-02-25 03:29:57,630 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:3 to process data
-2022-02-25 03:29:57,630 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:4 to process data
-2022-02-25 03:29:57,630 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:6 to process data
-2022-02-25 03:29:57,630 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:5 to process data
-2022-02-25 03:29:57,630 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:9 to process data
-2022-02-25 03:29:57,630 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:7 to process data
-2022-02-25 03:29:57,630 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:10 to process data
-2022-02-25 03:30:00,633 MainProcess mpmq.mpmq [update_result] DEBUG result queue is empty
-2022-02-25 03:30:00,634 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:8 with id:25 name:Process-9
-2022-02-25 03:30:00,634 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:11 with id:31 name:Process-12
-2022-02-25 03:30:00,634 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:12 with id:33 name:Process-13
-2022-02-25 03:30:00,634 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:13 with id:35 name:Process-14
-2022-02-25 03:30:00,634 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:14 with id:36 name:Process-15
-2022-02-25 03:30:00,634 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:0 with id:10 name:Process-1
-2022-02-25 03:30:00,634 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:2 with id:12 name:Process-3
-2022-02-25 03:30:00,634 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:1 with id:11 name:Process-2
-2022-02-25 03:30:00,634 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:3 with id:14 name:Process-4
-2022-02-25 03:30:00,634 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:4 with id:16 name:Process-5
-2022-02-25 03:30:00,634 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:6 with id:20 name:Process-7
-2022-02-25 03:30:00,634 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:5 with id:18 name:Process-6
-2022-02-25 03:30:00,634 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:7 with id:22 name:Process-8
-2022-02-25 03:30:00,635 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:9 with id:26 name:Process-10
-2022-02-25 03:30:00,635 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:10 with id:27 name:Process-11
-2022-02-25 03:30:00,635 MainProcess mpmq.mpmq [check_result] DEBUG checking results for errors
-2022-02-25 03:30:00,635 MainProcess mp4ansi.mp4ansi [final] DEBUG executing final task
-2022-02-25 03:30:00,635 MainProcess mp4ansi.terminal [write_lines] DEBUG writing terminal
-2022-02-25 03:30:00,635 MainProcess __main__ [log_results] DEBUG here are the results
-2022-02-25 03:30:00,635 MainProcess __main__ [log_results] DEBUG process 0 processed item item0
-2022-02-25 03:30:00,635 MainProcess __main__ [log_results] DEBUG process 0 processed item item15
-2022-02-25 03:30:00,635 MainProcess __main__ [log_results] DEBUG process 0 processed item item30
-2022-02-25 03:30:00,635 MainProcess __main__ [log_results] DEBUG process 0 processed item item45
-2022-02-25 03:30:00,635 MainProcess __main__ [log_results] DEBUG process 0 processed item item60
-2022-02-25 03:30:00,635 MainProcess __main__ [log_results] DEBUG process 0 processed item item75
-2022-02-25 03:30:00,635 MainProcess __main__ [log_results] DEBUG process 0 processed item item90
-2022-02-25 03:30:00,635 MainProcess __main__ [log_results] DEBUG process 1 processed item item1
-2022-02-25 03:30:00,635 MainProcess __main__ [log_results] DEBUG process 1 processed item item17
-2022-02-25 03:30:00,635 MainProcess __main__ [log_results] DEBUG process 1 processed item item32
-2022-02-25 03:30:00,635 MainProcess __main__ [log_results] DEBUG process 1 processed item item47
-2022-02-25 03:30:00,635 MainProcess __main__ [log_results] DEBUG process 1 processed item item62
-2022-02-25 03:30:00,635 MainProcess __main__ [log_results] DEBUG process 1 processed item item77
-2022-02-25 03:30:00,635 MainProcess __main__ [log_results] DEBUG process 1 processed item item92
-2022-02-25 03:30:00,635 MainProcess __main__ [log_results] DEBUG process 2 processed item item2
-2022-02-25 03:30:00,635 MainProcess __main__ [log_results] DEBUG process 2 processed item item16
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 2 processed item item31
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 2 processed item item46
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 2 processed item item61
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 2 processed item item76
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 2 processed item item91
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 3 processed item item3
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 3 processed item item18
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 3 processed item item33
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 3 processed item item48
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 3 processed item item63
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 3 processed item item78
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 3 processed item item94
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 4 processed item item4
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 4 processed item item19
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 4 processed item item34
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 4 processed item item49
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 4 processed item item64
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 4 processed item item79
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 4 processed item item93
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 5 processed item item5
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 5 processed item item21
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 5 processed item item36
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 5 processed item item51
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 5 processed item item66
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 5 processed item item81
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 5 processed item item96
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 6 processed item item6
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 6 processed item item20
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 6 processed item item35
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 6 processed item item50
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 6 processed item item65
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 6 processed item item80
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 6 processed item item95
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 7 processed item item7
-2022-02-25 03:30:00,636 MainProcess __main__ [log_results] DEBUG process 7 processed item item22
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 7 processed item item37
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 7 processed item item52
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 7 processed item item67
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 7 processed item item82
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 7 processed item item97
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 8 processed item item9
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 8 processed item item24
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 8 processed item item39
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 8 processed item item54
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 8 processed item item69
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 8 processed item item84
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 9 processed item item8
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 9 processed item item23
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 9 processed item item38
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 9 processed item item53
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 9 processed item item68
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 9 processed item item83
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 9 processed item item98
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 10 processed item item10
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 10 processed item item25
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 10 processed item item40
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 10 processed item item55
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 10 processed item item70
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 10 processed item item85
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 10 processed item item99
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 11 processed item item11
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 11 processed item item26
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 11 processed item item41
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 11 processed item item56
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 11 processed item item71
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 11 processed item item86
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 12 processed item item12
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 12 processed item item27
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 12 processed item item43
-2022-02-25 03:30:00,637 MainProcess __main__ [log_results] DEBUG process 12 processed item item58
-2022-02-25 03:30:00,638 MainProcess __main__ [log_results] DEBUG process 12 processed item item73
-2022-02-25 03:30:00,638 MainProcess __main__ [log_results] DEBUG process 12 processed item item88
-2022-02-25 03:30:00,638 MainProcess __main__ [log_results] DEBUG process 13 processed item item13
-2022-02-25 03:30:00,638 MainProcess __main__ [log_results] DEBUG process 13 processed item item28
-2022-02-25 03:30:00,638 MainProcess __main__ [log_results] DEBUG process 13 processed item item42
-2022-02-25 03:30:00,638 MainProcess __main__ [log_results] DEBUG process 13 processed item item57
-2022-02-25 03:30:00,638 MainProcess __main__ [log_results] DEBUG process 13 processed item item72
-2022-02-25 03:30:00,638 MainProcess __main__ [log_results] DEBUG process 13 processed item item87
-2022-02-25 03:30:00,638 MainProcess __main__ [log_results] DEBUG process 14 processed item item14
-2022-02-25 03:30:00,638 MainProcess __main__ [log_results] DEBUG process 14 processed item item29
-2022-02-25 03:30:00,638 MainProcess __main__ [log_results] DEBUG process 14 processed item item44
-2022-02-25 03:30:00,638 MainProcess __main__ [log_results] DEBUG process 14 processed item item59
-2022-02-25 03:30:00,638 MainProcess __main__ [log_results] DEBUG process 14 processed item item74
-2022-02-25 03:30:00,638 MainProcess __main__ [log_results] DEBUG process 14 processed item item89
+2022-02-25 13:44:28,728 MainProcess mp4ansi.mp4ansi [__init__] DEBUG executing MP4ansi constructor
+2022-02-25 13:44:28,729 MainProcess mpmq.mpmq [__init__] DEBUG executing MPmq constructor
+2022-02-25 13:44:28,730 MainProcess mp4ansi.terminal [__init__] DEBUG executing Terminal constructor
+2022-02-25 13:44:28,730 MainProcess mp4ansi.terminal [create] DEBUG creating terminal
+2022-02-25 13:44:28,730 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
+2022-02-25 13:44:28,730 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
+2022-02-25 13:44:28,730 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
+2022-02-25 13:44:28,730 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
+2022-02-25 13:44:28,730 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
+2022-02-25 13:44:28,730 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
+2022-02-25 13:44:28,730 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
+2022-02-25 13:44:28,730 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
+2022-02-25 13:44:28,730 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
+2022-02-25 13:44:28,730 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
+2022-02-25 13:44:28,730 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
+2022-02-25 13:44:28,731 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
+2022-02-25 13:44:28,731 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
+2022-02-25 13:44:28,731 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
+2022-02-25 13:44:28,731 MainProcess mp4ansi.statusline [__init__] DEBUG executing StatusLine constructor
+2022-02-25 13:44:28,731 MainProcess mp4ansi.mp4ansi [execute_run] DEBUG executing run task wrapper
+2022-02-25 13:44:28,731 MainProcess mp4ansi.terminal [write_lines] DEBUG writing terminal
+2022-02-25 13:44:28,731 MainProcess mpmq.mpmq [execute_run] DEBUG executing run task wrapper
+2022-02-25 13:44:28,731 MainProcess mpmq.mpmq [run] DEBUG executing run task
+2022-02-25 13:44:28,731 MainProcess mpmq.mpmq [populate_process_queue] DEBUG populating the process queue
+2022-02-25 13:44:28,731 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (0, {'queue': <multiprocessing.queues.Queue object at 0x7f106c93e1f0>, 'process': 0}) to the process queue
+2022-02-25 13:44:28,731 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (1, {'queue': <multiprocessing.queues.Queue object at 0x7f106c93e1f0>, 'process': 1}) to the process queue
+2022-02-25 13:44:28,731 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (2, {'queue': <multiprocessing.queues.Queue object at 0x7f106c93e1f0>, 'process': 2}) to the process queue
+2022-02-25 13:44:28,731 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (3, {'queue': <multiprocessing.queues.Queue object at 0x7f106c93e1f0>, 'process': 3}) to the process queue
+2022-02-25 13:44:28,731 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (4, {'queue': <multiprocessing.queues.Queue object at 0x7f106c93e1f0>, 'process': 4}) to the process queue
+2022-02-25 13:44:28,731 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (5, {'queue': <multiprocessing.queues.Queue object at 0x7f106c93e1f0>, 'process': 5}) to the process queue
+2022-02-25 13:44:28,732 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (6, {'queue': <multiprocessing.queues.Queue object at 0x7f106c93e1f0>, 'process': 6}) to the process queue
+2022-02-25 13:44:28,732 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (7, {'queue': <multiprocessing.queues.Queue object at 0x7f106c93e1f0>, 'process': 7}) to the process queue
+2022-02-25 13:44:28,732 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (8, {'queue': <multiprocessing.queues.Queue object at 0x7f106c93e1f0>, 'process': 8}) to the process queue
+2022-02-25 13:44:28,732 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (9, {'queue': <multiprocessing.queues.Queue object at 0x7f106c93e1f0>, 'process': 9}) to the process queue
+2022-02-25 13:44:28,732 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (10, {'queue': <multiprocessing.queues.Queue object at 0x7f106c93e1f0>, 'process': 10}) to the process queue
+2022-02-25 13:44:28,732 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (11, {'queue': <multiprocessing.queues.Queue object at 0x7f106c93e1f0>, 'process': 11}) to the process queue
+2022-02-25 13:44:28,732 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (12, {'queue': <multiprocessing.queues.Queue object at 0x7f106c93e1f0>, 'process': 12}) to the process queue
+2022-02-25 13:44:28,732 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (13, {'queue': <multiprocessing.queues.Queue object at 0x7f106c93e1f0>, 'process': 13}) to the process queue
+2022-02-25 13:44:28,732 MainProcess mpmq.mpmq [populate_process_queue] DEBUG adding (14, {'queue': <multiprocessing.queues.Queue object at 0x7f106c93e1f0>, 'process': 14}) to the process queue
+2022-02-25 13:44:28,732 MainProcess mpmq.mpmq [populate_process_queue] DEBUG added 15 items to the process queue
+2022-02-25 13:44:28,732 MainProcess mpmq.mpmq [start_processes] DEBUG there are 15 items in the process queue
+2022-02-25 13:44:28,732 MainProcess mpmq.mpmq [start_processes] DEBUG starting 15 background processes
+2022-02-25 13:44:28,733 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:0 with id:10 name:Process-1
+2022-02-25 13:44:28,734 Process-1 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
+2022-02-25 13:44:28,734 Process-1 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:0
+2022-02-25 13:44:28,735 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:1 with id:11 name:Process-2
+2022-02-25 13:44:28,735 Process-1 __main__ [run_q] DEBUG processing item0
+2022-02-25 13:44:28,736 Process-2 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
+2022-02-25 13:44:28,735 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:2 with id:13 name:Process-3
+2022-02-25 13:44:28,736 Process-2 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:1
+2022-02-25 13:44:28,736 Process-2 __main__ [run_q] DEBUG processing item1
+2022-02-25 13:44:28,736 Process-3 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
+2022-02-25 13:44:28,736 Process-3 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:2
+2022-02-25 13:44:28,736 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:3 with id:14 name:Process-4
+2022-02-25 13:44:28,737 Process-3 __main__ [run_q] DEBUG processing item2
+2022-02-25 13:44:28,737 Process-4 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
+2022-02-25 13:44:28,737 Process-4 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:3
+2022-02-25 13:44:28,737 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:4 with id:16 name:Process-5
+2022-02-25 13:44:28,738 Process-4 __main__ [run_q] DEBUG processing item3
+2022-02-25 13:44:28,738 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:5 with id:18 name:Process-6
+2022-02-25 13:44:28,738 Process-5 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
+2022-02-25 13:44:28,739 Process-5 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:4
+2022-02-25 13:44:28,739 Process-6 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
+2022-02-25 13:44:28,739 Process-6 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:5
+2022-02-25 13:44:28,739 Process-5 __main__ [run_q] DEBUG processing item4
+2022-02-25 13:44:28,739 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:6 with id:20 name:Process-7
+2022-02-25 13:44:28,740 Process-6 __main__ [run_q] DEBUG processing item5
+2022-02-25 13:44:28,740 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:7 with id:23 name:Process-8
+2022-02-25 13:44:28,742 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:8 with id:24 name:Process-9
+2022-02-25 13:44:28,743 Process-9 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
+2022-02-25 13:44:28,743 Process-9 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:8
+2022-02-25 13:44:28,743 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:9 with id:25 name:Process-10
+2022-02-25 13:44:28,743 Process-9 __main__ [run_q] DEBUG processing item6
+2022-02-25 13:44:28,744 Process-7 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
+2022-02-25 13:44:28,744 Process-8 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
+2022-02-25 13:44:28,744 Process-8 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:7
+2022-02-25 13:44:28,744 Process-7 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:6
+2022-02-25 13:44:28,744 Process-10 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
+2022-02-25 13:44:28,744 Process-8 __main__ [run_q] DEBUG processing item7
+2022-02-25 13:44:28,744 Process-10 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:9
+2022-02-25 13:44:28,744 Process-7 __main__ [run_q] DEBUG processing item8
+2022-02-25 13:44:28,745 Process-10 __main__ [run_q] DEBUG processing item9
+2022-02-25 13:44:28,744 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:10 with id:27 name:Process-11
+2022-02-25 13:44:28,745 Process-11 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
+2022-02-25 13:44:28,746 Process-11 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:10
+2022-02-25 13:44:28,746 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:11 with id:31 name:Process-12
+2022-02-25 13:44:28,746 Process-11 __main__ [run_q] DEBUG processing item10
+2022-02-25 13:44:28,747 Process-12 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
+2022-02-25 13:44:28,747 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:12 with id:33 name:Process-13
+2022-02-25 13:44:28,747 Process-12 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:11
+2022-02-25 13:44:28,748 Process-12 __main__ [run_q] DEBUG processing item11
+2022-02-25 13:44:28,748 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:13 with id:35 name:Process-14
+2022-02-25 13:44:28,749 Process-13 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
+2022-02-25 13:44:28,749 Process-13 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:12
+2022-02-25 13:44:28,749 Process-13 __main__ [run_q] DEBUG processing item12
+2022-02-25 13:44:28,750 MainProcess mpmq.mpmq [start_next_process] INFO started background process at offset:14 with id:36 name:Process-15
+2022-02-25 13:44:28,750 MainProcess mpmq.mpmq [start_processes] INFO started 15 background processes
+2022-02-25 13:44:28,750 Process-14 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
+2022-02-25 13:44:28,751 Process-14 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:13
+2022-02-25 13:44:28,751 Process-14 __main__ [run_q] DEBUG processing item13
+2022-02-25 13:44:28,751 Process-15 mpmq.handler [__call__] DEBUG decorating function run_q with queue_handler
+2022-02-25 13:44:28,751 Process-15 mpmq.handler [_queue_handler] DEBUG configuring message queue log handler for 'run_q' offset:14
+2022-02-25 13:44:28,752 Process-15 __main__ [run_q] DEBUG processing item14
+2022-02-25 13:44:29,236 Process-1 __main__ [run_q] DEBUG processing item15
+2022-02-25 13:44:29,237 Process-2 __main__ [run_q] DEBUG processing item16
+2022-02-25 13:44:29,238 Process-3 __main__ [run_q] DEBUG processing item17
+2022-02-25 13:44:29,239 Process-4 __main__ [run_q] DEBUG processing item18
+2022-02-25 13:44:29,240 Process-5 __main__ [run_q] DEBUG processing item19
+2022-02-25 13:44:29,241 Process-6 __main__ [run_q] DEBUG processing item20
+2022-02-25 13:44:29,244 Process-9 __main__ [run_q] DEBUG processing item21
+2022-02-25 13:44:29,246 Process-8 __main__ [run_q] DEBUG processing item22
+2022-02-25 13:44:29,246 Process-7 __main__ [run_q] DEBUG processing item23
+2022-02-25 13:44:29,247 Process-10 __main__ [run_q] DEBUG processing item24
+2022-02-25 13:44:29,247 Process-11 __main__ [run_q] DEBUG processing item25
+2022-02-25 13:44:29,251 Process-12 __main__ [run_q] DEBUG processing item26
+2022-02-25 13:44:29,252 Process-13 __main__ [run_q] DEBUG processing item27
+2022-02-25 13:44:29,252 Process-14 __main__ [run_q] DEBUG processing item28
+2022-02-25 13:44:29,253 Process-15 __main__ [run_q] DEBUG processing item29
+2022-02-25 13:44:29,737 Process-1 __main__ [run_q] DEBUG processing item30
+2022-02-25 13:44:29,738 Process-2 __main__ [run_q] DEBUG processing item31
+2022-02-25 13:44:29,739 Process-3 __main__ [run_q] DEBUG processing item32
+2022-02-25 13:44:29,740 Process-4 __main__ [run_q] DEBUG processing item33
+2022-02-25 13:44:29,740 Process-5 __main__ [run_q] DEBUG processing item34
+2022-02-25 13:44:29,741 Process-6 __main__ [run_q] DEBUG processing item35
+2022-02-25 13:44:29,745 Process-9 __main__ [run_q] DEBUG processing item36
+2022-02-25 13:44:29,746 Process-8 __main__ [run_q] DEBUG processing item37
+2022-02-25 13:44:29,747 Process-7 __main__ [run_q] DEBUG processing item38
+2022-02-25 13:44:29,748 Process-10 __main__ [run_q] DEBUG processing item39
+2022-02-25 13:44:29,748 Process-11 __main__ [run_q] DEBUG processing item40
+2022-02-25 13:44:29,752 Process-12 __main__ [run_q] DEBUG processing item41
+2022-02-25 13:44:29,753 Process-14 __main__ [run_q] DEBUG processing item42
+2022-02-25 13:44:29,753 Process-13 __main__ [run_q] DEBUG processing item43
+2022-02-25 13:44:29,754 Process-15 __main__ [run_q] DEBUG processing item44
+2022-02-25 13:44:30,238 Process-1 __main__ [run_q] DEBUG processing item45
+2022-02-25 13:44:30,239 Process-2 __main__ [run_q] DEBUG processing item46
+2022-02-25 13:44:30,239 Process-3 __main__ [run_q] DEBUG processing item47
+2022-02-25 13:44:30,240 Process-5 __main__ [run_q] DEBUG processing item48
+2022-02-25 13:44:30,241 Process-4 __main__ [run_q] DEBUG processing item49
+2022-02-25 13:44:30,242 Process-6 __main__ [run_q] DEBUG processing item50
+2022-02-25 13:44:30,246 Process-9 __main__ [run_q] DEBUG processing item51
+2022-02-25 13:44:30,247 Process-8 __main__ [run_q] DEBUG processing item52
+2022-02-25 13:44:30,247 Process-7 __main__ [run_q] DEBUG processing item53
+2022-02-25 13:44:30,248 Process-10 __main__ [run_q] DEBUG processing item54
+2022-02-25 13:44:30,249 Process-11 __main__ [run_q] DEBUG processing item55
+2022-02-25 13:44:30,253 Process-12 __main__ [run_q] DEBUG processing item56
+2022-02-25 13:44:30,253 Process-14 __main__ [run_q] DEBUG processing item57
+2022-02-25 13:44:30,254 Process-13 __main__ [run_q] DEBUG processing item58
+2022-02-25 13:44:30,254 Process-15 __main__ [run_q] DEBUG processing item59
+2022-02-25 13:44:30,739 Process-1 __main__ [run_q] DEBUG processing item60
+2022-02-25 13:44:30,739 Process-2 __main__ [run_q] DEBUG processing item61
+2022-02-25 13:44:30,740 Process-3 __main__ [run_q] DEBUG processing item62
+2022-02-25 13:44:30,741 Process-5 __main__ [run_q] DEBUG processing item63
+2022-02-25 13:44:30,741 Process-4 __main__ [run_q] DEBUG processing item64
+2022-02-25 13:44:30,743 Process-6 __main__ [run_q] DEBUG processing item65
+2022-02-25 13:44:30,746 Process-9 __main__ [run_q] DEBUG processing item66
+2022-02-25 13:44:30,748 Process-8 __main__ [run_q] DEBUG processing item67
+2022-02-25 13:44:30,748 Process-7 __main__ [run_q] DEBUG processing item68
+2022-02-25 13:44:30,749 Process-10 __main__ [run_q] DEBUG processing item69
+2022-02-25 13:44:30,750 Process-11 __main__ [run_q] DEBUG processing item70
+2022-02-25 13:44:30,753 Process-12 __main__ [run_q] DEBUG processing item71
+2022-02-25 13:44:30,754 Process-14 __main__ [run_q] DEBUG processing item72
+2022-02-25 13:44:30,754 Process-13 __main__ [run_q] DEBUG processing item73
+2022-02-25 13:44:30,755 Process-15 __main__ [run_q] DEBUG processing item74
+2022-02-25 13:44:31,240 Process-1 __main__ [run_q] DEBUG processing item75
+2022-02-25 13:44:31,240 Process-2 __main__ [run_q] DEBUG processing item76
+2022-02-25 13:44:31,241 Process-3 __main__ [run_q] DEBUG processing item77
+2022-02-25 13:44:31,242 Process-5 __main__ [run_q] DEBUG processing item78
+2022-02-25 13:44:31,242 Process-4 __main__ [run_q] DEBUG processing item79
+2022-02-25 13:44:31,244 Process-6 __main__ [run_q] DEBUG processing item80
+2022-02-25 13:44:31,247 Process-9 __main__ [run_q] DEBUG processing item81
+2022-02-25 13:44:31,249 Process-8 __main__ [run_q] DEBUG processing item82
+2022-02-25 13:44:31,249 Process-7 __main__ [run_q] DEBUG processing item83
+2022-02-25 13:44:31,250 Process-10 __main__ [run_q] DEBUG processing item84
+2022-02-25 13:44:31,251 Process-11 __main__ [run_q] DEBUG processing item85
+2022-02-25 13:44:31,254 Process-12 __main__ [run_q] DEBUG processing item86
+2022-02-25 13:44:31,255 Process-14 __main__ [run_q] DEBUG processing item87
+2022-02-25 13:44:31,255 Process-13 __main__ [run_q] DEBUG processing item88
+2022-02-25 13:44:31,256 Process-15 __main__ [run_q] DEBUG processing item89
+2022-02-25 13:44:31,740 Process-1 __main__ [run_q] DEBUG processing item90
+2022-02-25 13:44:31,741 Process-2 __main__ [run_q] DEBUG processing item91
+2022-02-25 13:44:31,742 Process-3 __main__ [run_q] DEBUG processing item92
+2022-02-25 13:44:31,742 Process-5 __main__ [run_q] DEBUG processing item93
+2022-02-25 13:44:31,743 Process-4 __main__ [run_q] DEBUG processing item94
+2022-02-25 13:44:31,744 Process-6 __main__ [run_q] DEBUG processing item95
+2022-02-25 13:44:31,748 Process-9 __main__ [run_q] DEBUG processing item96
+2022-02-25 13:44:31,750 Process-8 __main__ [run_q] DEBUG processing item97
+2022-02-25 13:44:31,750 Process-7 __main__ [run_q] DEBUG processing item98
+2022-02-25 13:44:31,751 Process-10 __main__ [run_q] DEBUG processing item99
+2022-02-25 13:44:33,753 Process-11 __main__ [run_q] DEBUG queue is empty
+2022-02-25 13:44:33,754 Process-11 __main__ [run_q] DEBUG processing complete
+2022-02-25 13:44:33,754 Process-11 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:10 result to result queue
+2022-02-25 13:44:33,754 Process-11 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:10 ended
+2022-02-25 13:44:33,755 Process-11 mpmq.handler [_queue_handler] DEBUG DONE
+2022-02-25 13:44:33,755 Process-14 __main__ [run_q] DEBUG queue is empty
+2022-02-25 13:44:33,755 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:10 id:27 name:Process-11 has completed
+2022-02-25 13:44:33,755 Process-14 __main__ [run_q] DEBUG processing complete
+2022-02-25 13:44:33,755 Process-14 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:13 result to result queue
+2022-02-25 13:44:33,756 Process-13 __main__ [run_q] DEBUG queue is empty
+2022-02-25 13:44:33,756 Process-13 __main__ [run_q] DEBUG processing complete
+2022-02-25 13:44:33,756 Process-13 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:12 result to result queue
+2022-02-25 13:44:33,756 Process-12 __main__ [run_q] DEBUG queue is empty
+2022-02-25 13:44:33,757 Process-12 __main__ [run_q] DEBUG processing complete
+2022-02-25 13:44:33,757 Process-12 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:11 result to result queue
+2022-02-25 13:44:33,757 Process-14 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:13 ended
+2022-02-25 13:44:33,757 Process-14 mpmq.handler [_queue_handler] DEBUG DONE
+2022-02-25 13:44:33,757 Process-13 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:12 ended
+2022-02-25 13:44:33,758 Process-13 mpmq.handler [_queue_handler] DEBUG DONE
+2022-02-25 13:44:33,757 Process-12 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:11 ended
+2022-02-25 13:44:33,758 Process-12 mpmq.handler [_queue_handler] DEBUG DONE
+2022-02-25 13:44:33,758 Process-15 __main__ [run_q] DEBUG queue is empty
+2022-02-25 13:44:33,758 Process-15 __main__ [run_q] DEBUG processing complete
+2022-02-25 13:44:33,758 Process-15 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:14 result to result queue
+2022-02-25 13:44:33,758 Process-15 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:14 ended
+2022-02-25 13:44:33,759 Process-15 mpmq.handler [_queue_handler] DEBUG DONE
+2022-02-25 13:44:33,772 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
+2022-02-25 13:44:33,773 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:12 id:33 name:Process-13 has completed
+2022-02-25 13:44:33,773 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
+2022-02-25 13:44:33,773 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:11 id:31 name:Process-12 has completed
+2022-02-25 13:44:33,773 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
+2022-02-25 13:44:33,774 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:14 id:36 name:Process-15 has completed
+2022-02-25 13:44:33,774 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
+2022-02-25 13:44:33,774 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:13 id:35 name:Process-14 has completed
+2022-02-25 13:44:33,774 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
+2022-02-25 13:44:34,242 Process-2 __main__ [run_q] DEBUG queue is empty
+2022-02-25 13:44:34,242 Process-2 __main__ [run_q] DEBUG processing complete
+2022-02-25 13:44:34,242 Process-1 __main__ [run_q] DEBUG queue is empty
+2022-02-25 13:44:34,242 Process-1 __main__ [run_q] DEBUG processing complete
+2022-02-25 13:44:34,242 Process-2 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:1 result to result queue
+2022-02-25 13:44:34,243 Process-1 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:0 result to result queue
+2022-02-25 13:44:34,243 Process-1 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:0 ended
+2022-02-25 13:44:34,243 Process-1 mpmq.handler [_queue_handler] DEBUG DONE
+2022-02-25 13:44:34,243 Process-5 __main__ [run_q] DEBUG queue is empty
+2022-02-25 13:44:34,243 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:0 id:10 name:Process-1 has completed
+2022-02-25 13:44:34,243 Process-5 __main__ [run_q] DEBUG processing complete
+2022-02-25 13:44:34,243 Process-5 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:4 result to result queue
+2022-02-25 13:44:34,243 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
+2022-02-25 13:44:34,243 Process-3 __main__ [run_q] DEBUG queue is empty
+2022-02-25 13:44:34,244 Process-3 __main__ [run_q] DEBUG processing complete
+2022-02-25 13:44:34,244 Process-3 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:2 result to result queue
+2022-02-25 13:44:34,244 Process-5 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:4 ended
+2022-02-25 13:44:34,244 Process-5 mpmq.handler [_queue_handler] DEBUG DONE
+2022-02-25 13:44:34,244 Process-2 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:1 ended
+2022-02-25 13:44:34,244 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:4 id:16 name:Process-5 has completed
+2022-02-25 13:44:34,244 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
+2022-02-25 13:44:34,244 Process-2 mpmq.handler [_queue_handler] DEBUG DONE
+2022-02-25 13:44:34,245 Process-3 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:2 ended
+2022-02-25 13:44:34,245 Process-4 __main__ [run_q] DEBUG queue is empty
+2022-02-25 13:44:34,245 Process-3 mpmq.handler [_queue_handler] DEBUG DONE
+2022-02-25 13:44:34,245 Process-4 __main__ [run_q] DEBUG processing complete
+2022-02-25 13:44:34,245 Process-4 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:3 result to result queue
+2022-02-25 13:44:34,245 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:2 id:13 name:Process-3 has completed
+2022-02-25 13:44:34,245 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
+2022-02-25 13:44:34,245 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:1 id:11 name:Process-2 has completed
+2022-02-25 13:44:34,246 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
+2022-02-25 13:44:34,246 Process-4 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:3 ended
+2022-02-25 13:44:34,246 Process-6 __main__ [run_q] DEBUG queue is empty
+2022-02-25 13:44:34,246 Process-4 mpmq.handler [_queue_handler] DEBUG DONE
+2022-02-25 13:44:34,246 Process-6 __main__ [run_q] DEBUG processing complete
+2022-02-25 13:44:34,246 Process-6 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:5 result to result queue
+2022-02-25 13:44:34,246 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:3 id:14 name:Process-4 has completed
+2022-02-25 13:44:34,246 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
+2022-02-25 13:44:34,246 Process-6 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:5 ended
+2022-02-25 13:44:34,246 Process-6 mpmq.handler [_queue_handler] DEBUG DONE
+2022-02-25 13:44:34,247 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:5 id:18 name:Process-6 has completed
+2022-02-25 13:44:34,247 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
+2022-02-25 13:44:34,249 Process-9 __main__ [run_q] DEBUG queue is empty
+2022-02-25 13:44:34,249 Process-9 __main__ [run_q] DEBUG processing complete
+2022-02-25 13:44:34,249 Process-9 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:8 result to result queue
+2022-02-25 13:44:34,250 Process-9 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:8 ended
+2022-02-25 13:44:34,250 Process-9 mpmq.handler [_queue_handler] DEBUG DONE
+2022-02-25 13:44:34,250 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:8 id:24 name:Process-9 has completed
+2022-02-25 13:44:34,250 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
+2022-02-25 13:44:34,250 Process-7 __main__ [run_q] DEBUG queue is empty
+2022-02-25 13:44:34,251 Process-7 __main__ [run_q] DEBUG processing complete
+2022-02-25 13:44:34,251 Process-7 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:6 result to result queue
+2022-02-25 13:44:34,251 Process-8 __main__ [run_q] DEBUG queue is empty
+2022-02-25 13:44:34,251 Process-7 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:6 ended
+2022-02-25 13:44:34,251 Process-8 __main__ [run_q] DEBUG processing complete
+2022-02-25 13:44:34,251 Process-7 mpmq.handler [_queue_handler] DEBUG DONE
+2022-02-25 13:44:34,252 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:6 id:20 name:Process-7 has completed
+2022-02-25 13:44:34,252 Process-8 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:7 result to result queue
+2022-02-25 13:44:34,252 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
+2022-02-25 13:44:34,252 Process-10 __main__ [run_q] DEBUG queue is empty
+2022-02-25 13:44:34,252 Process-10 __main__ [run_q] DEBUG processing complete
+2022-02-25 13:44:34,252 Process-10 mpmq.handler [_queue_handler] DEBUG adding 'run_q' offset:9 result to result queue
+2022-02-25 13:44:34,252 Process-10 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:9 ended
+2022-02-25 13:44:34,252 Process-10 mpmq.handler [_queue_handler] DEBUG DONE
+2022-02-25 13:44:34,253 Process-8 mpmq.handler [_queue_handler] DEBUG execution of run_q offset:7 ended
+2022-02-25 13:44:34,253 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:9 id:25 name:Process-10 has completed
+2022-02-25 13:44:34,253 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
+2022-02-25 13:44:34,253 Process-8 mpmq.handler [_queue_handler] DEBUG DONE
+2022-02-25 13:44:34,254 MainProcess mpmq.mpmq [remove_active_process] INFO process at offset:7 id:23 name:Process-8 has completed
+2022-02-25 13:44:34,254 MainProcess mpmq.mpmq [process_control_message] INFO the to process queue is empty
+2022-02-25 13:44:34,254 MainProcess mpmq.mpmq [run] INFO there are no more active processses - quitting
+2022-02-25 13:44:34,254 MainProcess mpmq.mpmq [update_result] DEBUG updating process data with results
+2022-02-25 13:44:34,254 MainProcess mpmq.mpmq [update_result] DEBUG the result queue size is: 15
+2022-02-25 13:44:34,254 MainProcess mpmq.mpmq [update_result] DEBUG updating process data with result from result queue
+2022-02-25 13:44:34,254 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:10 to process data
+2022-02-25 13:44:34,254 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:13 to process data
+2022-02-25 13:44:34,254 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:12 to process data
+2022-02-25 13:44:34,254 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:11 to process data
+2022-02-25 13:44:34,254 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:14 to process data
+2022-02-25 13:44:34,254 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:0 to process data
+2022-02-25 13:44:34,254 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:1 to process data
+2022-02-25 13:44:34,254 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:4 to process data
+2022-02-25 13:44:34,254 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:2 to process data
+2022-02-25 13:44:34,254 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:3 to process data
+2022-02-25 13:44:34,254 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:5 to process data
+2022-02-25 13:44:34,255 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:8 to process data
+2022-02-25 13:44:34,255 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:6 to process data
+2022-02-25 13:44:34,255 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:9 to process data
+2022-02-25 13:44:34,255 MainProcess mpmq.mpmq [update_result] DEBUG adding result of process at offset:7 to process data
+2022-02-25 13:44:37,258 MainProcess mpmq.mpmq [update_result] DEBUG result queue is empty
+2022-02-25 13:44:37,258 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:10 with id:27 name:Process-11
+2022-02-25 13:44:37,258 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:12 with id:33 name:Process-13
+2022-02-25 13:44:37,258 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:11 with id:31 name:Process-12
+2022-02-25 13:44:37,258 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:14 with id:36 name:Process-15
+2022-02-25 13:44:37,258 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:13 with id:35 name:Process-14
+2022-02-25 13:44:37,258 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:0 with id:10 name:Process-1
+2022-02-25 13:44:37,259 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:4 with id:16 name:Process-5
+2022-02-25 13:44:37,259 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:2 with id:13 name:Process-3
+2022-02-25 13:44:37,259 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:1 with id:11 name:Process-2
+2022-02-25 13:44:37,259 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:3 with id:14 name:Process-4
+2022-02-25 13:44:37,259 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:5 with id:18 name:Process-6
+2022-02-25 13:44:37,259 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:8 with id:24 name:Process-9
+2022-02-25 13:44:37,259 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:6 with id:20 name:Process-7
+2022-02-25 13:44:37,259 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:9 with id:25 name:Process-10
+2022-02-25 13:44:37,259 MainProcess mpmq.mpmq [join_processes] INFO joined process at offset:7 with id:23 name:Process-8
+2022-02-25 13:44:37,259 MainProcess mpmq.mpmq [check_result] DEBUG checking results for errors
+2022-02-25 13:44:37,259 MainProcess mp4ansi.mp4ansi [final] DEBUG executing final task
+2022-02-25 13:44:37,259 MainProcess mp4ansi.terminal [write_lines] DEBUG writing terminal
+2022-02-25 13:44:37,259 MainProcess __main__ [log_results] DEBUG here is who did what
+2022-02-25 13:44:37,259 MainProcess __main__ [log_results] DEBUG process 0 processed item item0
+2022-02-25 13:44:37,259 MainProcess __main__ [log_results] DEBUG process 0 processed item item15
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 0 processed item item30
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 0 processed item item45
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 0 processed item item60
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 0 processed item item75
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 0 processed item item90
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 1 processed item item1
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 1 processed item item16
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 1 processed item item31
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 1 processed item item46
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 1 processed item item61
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 1 processed item item76
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 1 processed item item91
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 2 processed item item2
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 2 processed item item17
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 2 processed item item32
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 2 processed item item47
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 2 processed item item62
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 2 processed item item77
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 2 processed item item92
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 3 processed item item3
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 3 processed item item18
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 3 processed item item33
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 3 processed item item49
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 3 processed item item64
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 3 processed item item79
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 3 processed item item94
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 4 processed item item4
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 4 processed item item19
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 4 processed item item34
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 4 processed item item48
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 4 processed item item63
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 4 processed item item78
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 4 processed item item93
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 5 processed item item5
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 5 processed item item20
+2022-02-25 13:44:37,260 MainProcess __main__ [log_results] DEBUG process 5 processed item item35
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 5 processed item item50
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 5 processed item item65
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 5 processed item item80
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 5 processed item item95
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 6 processed item item8
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 6 processed item item23
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 6 processed item item38
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 6 processed item item53
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 6 processed item item68
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 6 processed item item83
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 6 processed item item98
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 7 processed item item7
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 7 processed item item22
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 7 processed item item37
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 7 processed item item52
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 7 processed item item67
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 7 processed item item82
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 7 processed item item97
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 8 processed item item6
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 8 processed item item21
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 8 processed item item36
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 8 processed item item51
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 8 processed item item66
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 8 processed item item81
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 8 processed item item96
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 9 processed item item9
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 9 processed item item24
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 9 processed item item39
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 9 processed item item54
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 9 processed item item69
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 9 processed item item84
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 9 processed item item99
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 10 processed item item10
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 10 processed item item25
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 10 processed item item40
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 10 processed item item55
+2022-02-25 13:44:37,261 MainProcess __main__ [log_results] DEBUG process 10 processed item item70
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 10 processed item item85
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 11 processed item item11
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 11 processed item item26
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 11 processed item item41
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 11 processed item item56
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 11 processed item item71
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 11 processed item item86
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 12 processed item item12
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 12 processed item item27
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 12 processed item item43
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 12 processed item item58
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 12 processed item item73
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 12 processed item item88
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 13 processed item item13
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 13 processed item item28
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 13 processed item item42
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 13 processed item item57
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 13 processed item item72
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 13 processed item item87
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 14 processed item item14
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 14 processed item item29
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 14 processed item item44
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 14 processed item item59
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 14 processed item item74
+2022-02-25 13:44:37,262 MainProcess __main__ [log_results] DEBUG process 14 processed item item89
